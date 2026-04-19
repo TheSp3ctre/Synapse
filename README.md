@@ -39,7 +39,7 @@
 
 ## 📄 Descrição
 
-**NucleoDigest** é uma infraestrutura digital desenvolvida para o **Hackathon Siemens & Truechange**, focada em resolver a fragilidade sistêmica e a ineficiência econômica de biodigestores industriais. 
+**NucleoDigest** é uma infraestrutura digital desenvolvida para o **Hackathon LowHack & Truechange**, focada em resolver a fragilidade sistêmica e a ineficiência econômica de biodigestores industriais. 
 
 Nosso propósito é conectar o **monitoramento biológico do microbioma** com as **decisões de mercado em tempo real** (energia spot, créditos CBIO e tipping fees), traduzindo dados brutos de sensores em operações mais seguras, eficientes e lucrativas.
 
